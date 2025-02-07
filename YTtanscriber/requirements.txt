@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+bs4
+faiss-cpu
+youtube_transcript_api
+streamlit
+google-generativeai
+pathlib
