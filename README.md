@@ -4,7 +4,7 @@
 ### ⚡ _A note before you begin_
 
 This repo is created to share the application of LLM's (Agentic AI) not creation of LLM's.It's always great to connect with people on LinkedIn to build up the community - you'll find me here:  
-[linkedin](https://www.linkedin.com/in/vishalj01/)
+[linkedIn](https://www.linkedin.com/in/vishalj01/)
 
 ## 🌐 Quick Info
 
